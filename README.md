@@ -1,2 +1,2 @@
 # zio
-ZIO leaning repository
+ZIO learning repository
